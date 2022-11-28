@@ -1,3 +1,5 @@
+编译前更改ip地址：./package/lean/default-settings/files/zzz-default-settings
+
 # 欢迎来到 Lean 的 LEDE 源码仓库
 
 如何编译自己需要的 LEDE 固件 [How to build your LEDE firmware](./README_EN.md)
